@@ -12,6 +12,8 @@
   font-family: 'Outfit', sans-serif;
 }
 
+/* Desktop Design */
+
 body {
   display: flex;
   max-width: 1440px;
@@ -40,6 +42,7 @@ p {
   background-color: var(--white);
   padding: 16px 16px 40px 16px;
   border-radius: 20px;
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 4.77%);
 }
 
 .card img {
