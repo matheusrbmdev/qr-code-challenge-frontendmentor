@@ -19,7 +19,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Qr Code]()
+- Live Site URL: [Qr Code](https://matheusrbmdev.github.io/qr-code-challenge-frontendmentor/)
 
 ## Meu Processo
 
@@ -37,4 +37,4 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 ## Author
 
 - Website - [Matheus Rossi]()
-- Frontend Mentor - []()
+- Frontend Mentor - [@matheusrbmdev](https://www.frontendmentor.io/profile/matheusrbmdev)
